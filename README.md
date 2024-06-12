@@ -39,3 +39,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nduta1&show_icons=true&locale=en&layout=compact" alt="nduta1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nduta1&" alt="nduta1" /></p>
+
