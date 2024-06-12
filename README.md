@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sylvia Nduta</h1>
-<h3 align="center">I'm a financial professional with a strong background in data analysis and SQL, focused on leveraging data-driven insights to optimize financial decision-making. A passionate frontend developer from India</h3>
+<h3 align="center">I'm a financial professional with a strong background in data analysis and SQL, focused on leveraging data-driven insights to optimize financial decision-making.</h3>
+
+
+## ⚒️Tech Skills
+- Programming Languages: R, Python, SQL
+- Tools: R studio, Jupyter notebook, Power BI, Excel
+- Data Visualization: ggplot2, Matplotlib, Power BI, Tableau
+- Statistical Analysis: Regression analysis,Financial Times series analysis using Garch, Arima,,Portfolio Optimization, Data Analysis, Data Manipulation, Extreme Risk Measurement.
+
 
 - 🔭 I’m currently working on **Data Analysis with SQL**
 
@@ -19,8 +27,14 @@
 <a href="https://instagram.com/_ndu.taa__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_ndu.taa__" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h2 align="center">⚒️Languages</h2>
+<br/>
+<div align="left">
+    <img src="https://skillicons.dev/icons?i=python,postgresql,r" /><br>
+</div>
+
+<br/>
+<hr/>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nduta1&show_icons=true&locale=en&layout=compact" alt="nduta1" /></p>
 
